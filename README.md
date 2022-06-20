@@ -1,3 +1,4 @@
+###### Name:
 Veronica Platt
 <!-- 
   <<< Author notes: Header of the course >>> 
