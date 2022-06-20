@@ -6,3 +6,8 @@ Welcome to my GitHub profile!
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+## Task List Example
+- [x] Create Repository
+- [x] Create Branch
+- [ ] Open Pull Request
+- [ ] Merge Pull Request
